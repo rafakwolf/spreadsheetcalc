@@ -1,0 +1,10 @@
+{
+  "name": "Anycart",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Rafael Wolf <rafakwolf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
