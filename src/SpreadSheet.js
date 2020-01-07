@@ -29,7 +29,7 @@ class SpreadSheet {
         this.rowsCount = 0;
         this.columnsCount = 0;
         this.initialized = false;
-        console.log("Please, enter the number os columns and rows, e.g. (2 2).");
+        console.log("Please, enter the number of columns and rows, e.g. (2 2).");
     }
 
     initialize(input) {
